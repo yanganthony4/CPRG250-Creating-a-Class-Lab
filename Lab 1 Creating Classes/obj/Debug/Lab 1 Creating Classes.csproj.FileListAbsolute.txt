@@ -1,0 +1,8 @@
+C:\Users\yanga\source\repos\Lab 1 Creating Classes\Lab 1 Creating Classes\obj\Debug\Lab 1 Creating Classes.csproj.AssemblyReference.cache
+C:\Users\yanga\source\repos\Lab 1 Creating Classes\Lab 1 Creating Classes\obj\Debug\Lab 1 Creating Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\yanga\source\repos\Lab 1 Creating Classes\Lab 1 Creating Classes\obj\Debug\Lab 1 Creating Classes.csproj.CoreCompileInputs.cache
+C:\Users\yanga\source\repos\Lab 1 Creating Classes\Lab 1 Creating Classes\bin\Debug\Lab 1 Creating Classes.exe.config
+C:\Users\yanga\source\repos\Lab 1 Creating Classes\Lab 1 Creating Classes\bin\Debug\Lab 1 Creating Classes.exe
+C:\Users\yanga\source\repos\Lab 1 Creating Classes\Lab 1 Creating Classes\bin\Debug\Lab 1 Creating Classes.pdb
+C:\Users\yanga\source\repos\Lab 1 Creating Classes\Lab 1 Creating Classes\obj\Debug\Lab 1 Creating Classes.exe
+C:\Users\yanga\source\repos\Lab 1 Creating Classes\Lab 1 Creating Classes\obj\Debug\Lab 1 Creating Classes.pdb
